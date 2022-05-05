@@ -40,5 +40,5 @@ target="_blank"></a>
 
                                                                                                                
                                                                                                                
-![Snake animation](https://github.com/Felipe-QA//Felipe-QA//blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/felipe-qa/felipe-qa/blob/output/github-contribution-grid-snake.svg)
 </div>
