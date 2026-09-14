@@ -16,7 +16,6 @@ target="_blank"></a>
 </div>
 
 # Skills 🧑🏻‍🎓
-🛠️ Skills
 
 Core
 
