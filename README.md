@@ -16,14 +16,28 @@ target="_blank"></a>
 </div>
 
 # Skills 🧑🏻‍🎓
-<div>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-</div>
+🛠️ Skills
+
+Core
+
+🐍 Python
+🗄️ SQL
+☁️ AWS
+🐳 Docker
+🔄 CI/CD
+
+Data
+
+🐘 PostgreSQL
+🐼 Pandas
+🔧 ETL / Data Pipelines
+
+QA / Automation
+
+🎭 Playwright
+🧪 Cypress
+🔌 API Testing
+🧩 JavaScript / TypeScript
 
 # Pc Specs 💻
                                                                                                                        
